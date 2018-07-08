@@ -8,3 +8,6 @@
 ## Day 1 (7th july 2018):
 #### reviced probability and statistics
 #### learned and practiced hypothesis testing and pvalue calculations
+
+## Day 2(8th july 2018):
+#### learned theory of dimensionality reduction techniques PCA, T-SNE
