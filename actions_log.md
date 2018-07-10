@@ -18,3 +18,5 @@
 ##### learned to reduce the d dimension data to k dimensions(k<=d) using principal component analysis
 ##### also how to reconstruct back the projected data on the unit vector
 #### started unsupervised learning from datacamp, and completed 42% of Clustering for dataset exploration(k means)
+## Day 4(10th july 2018)
+#### applied pcna and tsne on MNIST dataset from kagle
