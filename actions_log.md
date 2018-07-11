@@ -20,3 +20,6 @@
 #### started unsupervised learning from datacamp, and completed 42% of Clustering for dataset exploration(k means)
 ## Day 4(10th july 2018)
 #### applied pcna and tsne on MNIST dataset from kagle
+
+## Day 5(11th july 2018)
+#### performed exploratory data analysis on credit card fruad dataset from kaggle, and gave user the top 10 similar transaction based on the input transactions id from the user
