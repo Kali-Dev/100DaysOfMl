@@ -23,3 +23,7 @@
 
 ## Day 5(11th july 2018)
 #### performed exploratory data analysis on credit card fruad dataset from kaggle, and gave user the top 10 similar transaction based on the input transactions id from the user
+## Day 6(18th july 2018)
+#### learned to use google colab and paper space
+#### Performed exploratory data analysis on amazon fine food reviews dataset from kaggle
+#### Learned basics about text preprocessing, stop words, stemming, lematization etc
